@@ -1,0 +1,1 @@
+Running model_testing.py creates a few visual examples of the model to get a better idea of it, they're saved here. 
