@@ -1,0 +1,2 @@
+This folder will house the pngs of the MRI reconstructions with motion applied to them.
+Run image_gen.py with the fastMRI files in place to populate the folder.
