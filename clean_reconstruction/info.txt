@@ -1,0 +1,2 @@
+The unedited reconstruction rss files from the fastMRI dataset go here. 
+If you have the correct fastMRI file in /singlecoil_vall/, and you run image_gen, it will populate this folder
